@@ -1,6 +1,6 @@
 
 const int led = 13; // Initialising led pin
-int value = 0; // Creating variable called value, initialise at zero
+int value = 0; // Creating variable called value, initialised at zero
 
 void setup() 
    { 
